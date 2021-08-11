@@ -12,7 +12,7 @@ npm run dev
 yarn dev
 ```
 
-Next, open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
+open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
 
 For a more rich local development experience, refer to [Set up local development for Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/local-development).
 
